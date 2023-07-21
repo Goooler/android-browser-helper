@@ -30,6 +30,6 @@ dependencies {
     debugImplementation project(path: ':androidbrowserhelper')
     debugImplementation project(path: ':locationdelegation')
 
-    releaseImplementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.2.1'
+    releaseImplementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
     releaseImplementation 'com.google.androidbrowserhelper:locationdelegation:1.0.1'
 }
