@@ -19,7 +19,7 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.google.androidbrowserhelper.demos.twa_offline_first"

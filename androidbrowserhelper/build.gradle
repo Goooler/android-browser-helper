@@ -20,7 +20,7 @@ apply plugin: 'maven-publish'
 def VERSION = "2.5.0";
 
 android {
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         minSdkVersion 16
