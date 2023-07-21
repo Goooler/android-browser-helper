@@ -18,7 +18,7 @@ apply plugin: 'maven-publish'
 def VERSION = "1.1.0";
 
 android {
-    compileSdkVersion 31
+    compileSdk 33
     buildToolsVersion "30.0.3"
 
     defaultConfig {

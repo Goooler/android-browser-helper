@@ -27,7 +27,7 @@ buildscript {
 }
 
 android {
-    compileSdkVersion 31
+    compileSdk 33
     buildToolsVersion "30.0.3"
 
     defaultConfig {
