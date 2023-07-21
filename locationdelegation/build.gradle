@@ -60,7 +60,7 @@ dependencies {
     testImplementation 'androidx.test:core:1.4.0'
 
     debugImplementation project(path: ':androidbrowserhelper')
-    releaseImplementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.2.2'
+    releaseImplementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
 }
 
 publishing {
