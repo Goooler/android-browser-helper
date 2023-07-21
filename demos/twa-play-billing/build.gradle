@@ -22,7 +22,7 @@ def appId = "com.google.androidbrowserhelper.demos.playbilling"
 
 android {
     compileSdk 34
-    buildToolsVersion "30.0.3"
+
     defaultConfig {
         applicationId appId
         minSdkVersion 21
