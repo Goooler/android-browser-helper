@@ -49,7 +49,7 @@ android {
 }
 
 dependencies {
-    api 'androidx.browser:browser:1.4.0'
+    api 'androidx.browser:browser:1.5.0'
 
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'com.google.android.gms:play-services-location:17.1.0'
